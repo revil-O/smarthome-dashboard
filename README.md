@@ -1,4 +1,4 @@
-# smarthome-dashboard
+# smarthome-dashboard on FIBARO-HC2-API
 I consider Fibaro HC2's web interface and smartphone application unusable. Instead of whining there and there, I decided to create my own application relying on their API.
 
 ![Wall](/screenshots/wall.png?raw=true)
